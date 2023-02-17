@@ -1,9 +1,19 @@
 p {
-    color:rgb(253, 19, 195);
+    color:rgb(0, 0, 0);
     font-family:arial;
 }
 
 h1 {
-    color:rgb(2, 18, 87);
+    color:white;
     font-family:arial;
+}
+
+h2 {
+    background-color: orange;
+}
+
+.titulonombre{
+    text-align:center;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/003/321/383/non_2x/abstract-pink-background-pink-modern-shapes-background-vector.jpg");
+    
 }
