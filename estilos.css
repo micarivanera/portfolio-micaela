@@ -17,3 +17,24 @@ h2 {
     background-image: url("https://static.vecteezy.com/system/resources/previews/003/321/383/non_2x/abstract-pink-background-pink-modern-shapes-background-vector.jpg");
     
 }
+
+/* BARRA DE NAVEGACION */
+.navbar {
+    padding: 2rem;
+    background-color: #f5f6f7;
+}
+
+.navbar-collapse {
+align-items: center;
+justify-content: space-between;
+}
+
+
+
+/* ADAPTABLE (RESPONSIVO) */
+
+@media screen and (max-width: 767px) {
+    .navbar-brand {
+      display: none;
+    }
+  }
